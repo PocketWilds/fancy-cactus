@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585332508 source:c:\users\austin\workshop\codeblocks\finalfantasy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585333609 source:c:\users\austin\workshop\sourcecode\c\finalfantasy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
